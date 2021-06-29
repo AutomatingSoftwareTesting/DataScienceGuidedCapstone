@@ -1,4 +1,5 @@
-# Data Science Guided Capstone - Big Mountain Resort
+# Big Mountain Ski Resort - Data Science Guided Capstone
+Big Mountain Resort wants to analyze their pricing strategy. The business wants some guidance on how to select a better value for their ticket price. This project demonstrates the data science method using the steps below.
 
 ## Problem Identification
 - [Problem Statement Worksheet](https://docs.google.com/presentation/d/1sSsiQtW6fXj7YP1c0EO0hY6lCXzX4RVFXSlpNlZxcaY/edit?usp=sharing)
